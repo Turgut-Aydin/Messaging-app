@@ -1,0 +1,21 @@
+C:\Users\hanim\source\repos\DESTEK UYGULAMASI\DESTEK UYGULAMASI\bin\Debug\DESTEK UYGULAMASI.exe.config
+C:\Users\hanim\source\repos\DESTEK UYGULAMASI\DESTEK UYGULAMASI\bin\Debug\DESTEK UYGULAMASI.exe
+C:\Users\hanim\source\repos\DESTEK UYGULAMASI\DESTEK UYGULAMASI\bin\Debug\DESTEK UYGULAMASI.pdb
+C:\Users\hanim\source\repos\DESTEK UYGULAMASI\DESTEK UYGULAMASI\obj\Debug\DESTEK UYGULAMASI.csproj.AssemblyReference.cache
+C:\Users\hanim\source\repos\DESTEK UYGULAMASI\DESTEK UYGULAMASI\obj\Debug\DESTEK_UYGULAMASI.Properties.Resources.resources
+C:\Users\hanim\source\repos\DESTEK UYGULAMASI\DESTEK UYGULAMASI\obj\Debug\DESTEK UYGULAMASI.csproj.GenerateResource.cache
+C:\Users\hanim\source\repos\DESTEK UYGULAMASI\DESTEK UYGULAMASI\obj\Debug\DESTEK UYGULAMASI.csproj.CoreCompileInputs.cache
+C:\Users\hanim\source\repos\DESTEK UYGULAMASI\DESTEK UYGULAMASI\obj\Debug\DESTEK UYGULAMASI.exe
+C:\Users\hanim\source\repos\DESTEK UYGULAMASI\DESTEK UYGULAMASI\obj\Debug\DESTEK UYGULAMASI.pdb
+C:\Users\hanim\source\repos\DESTEK UYGULAMASI\DESTEK UYGULAMASI\obj\Debug\DESTEK_UYGULAMASI.Giris.resources
+C:\Users\hanim\source\repos\DESTEK UYGULAMASI\DESTEK UYGULAMASI\obj\Debug\DESTEK_UYGULAMASI.AnaSayfa.resources
+C:\Users\hanim\source\repos\DESTEK UYGULAMASI\DESTEK UYGULAMASI\obj\Debug\DESTEK_UYGULAMASI.PersonelKaydi.resources
+C:\Users\hanim\source\repos\DESTEK UYGULAMASI\DESTEK UYGULAMASI\obj\Debug\DESTEK_UYGULAMASI.Chat.resources
+C:\Users\hanim\source\repos\DESTEK UYGULAMASI\DESTEK UYGULAMASI\obj\Debug\DESTEK_UYGULAMASI.UserControl1.resources
+C:\Users\hanim\source\repos\DESTEK UYGULAMASI\DESTEK UYGULAMASI\obj\Debug\DESTEK_UYGULAMASI.UserControl2.resources
+C:\Users\hanim\source\repos\DESTEK UYGULAMASI\DESTEK UYGULAMASI\obj\Debug\DESTEK_UYGULAMASI.UserControl3.resources
+C:\Users\hanim\source\repos\DESTEK UYGULAMASI\DESTEK UYGULAMASI\obj\Debug\ATURUTA.BreakoutGame.resources
+C:\Users\hanim\source\repos\DESTEK UYGULAMASI\DESTEK UYGULAMASI\bin\Debug\DESTEK UYGULAMASI.exe.manifest
+C:\Users\hanim\source\repos\DESTEK UYGULAMASI\DESTEK UYGULAMASI\bin\Debug\DESTEK UYGULAMASI.application
+C:\Users\hanim\source\repos\DESTEK UYGULAMASI\DESTEK UYGULAMASI\obj\Debug\DESTEK UYGULAMASI.exe.manifest
+C:\Users\hanim\source\repos\DESTEK UYGULAMASI\DESTEK UYGULAMASI\obj\Debug\DESTEK UYGULAMASI.application

@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2">
+  <asmv1:assemblyIdentity name="DESTEK UYGULAMASI.exe" version="1.0.0.0" publicKeyToken="8034222c556122b1" language="neutral" processorArchitecture="msil" type="win32" />
+  <application />
+  <entryPoint>
+    <assemblyIdentity name="DESTEK UYGULAMASI" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+    <commandLine file="DESTEK UYGULAMASI.exe" parameters="" />
+  </entryPoint>
+  <trustInfo>
+    <security>
+      <applicationRequestMinimum>
+        <PermissionSet Unrestricted="true" ID="Custom" SameSite="site" />
+        <defaultAssemblyRequest permissionSetReference="Custom" />
+      </applicationRequestMinimum>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <!--
+          UAC Bildirim Seçenekleri
+          Windows Kullanıcı Hesabı Denetimi düzeyini değiştirmek istiyorsanız,
+           requestedExecutionLevel düğümünü aşağıdakilerden biriyle değiştirin.
+
+        <requestedExecutionLevel  level="asInvoker" uiAccess="false" />
+        <requestedExecutionLevel  level="requireAdministrator" uiAccess="false" />
+        <requestedExecutionLevel  level="highestAvailable" uiAccess="false" />
+
+         Geriye dönük uyumluluk için Dosya ve Kayıt Defteri Sanallaştırması
+         kullanmak istiyorsanız, requestedExecutionLevel düğümünü silin.
+    -->
+        <requestedExecutionLevel level="asInvoker" uiAccess="false" />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentOS>
+      <osVersionInfo>
+        <os majorVersion="5" minorVersion="1" buildNumber="2600" servicePackMajor="0" />
+      </osVersionInfo>
+    </dependentOS>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="4.0.30319.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="DESTEK UYGULAMASI.exe" size="349616">
+      <assemblyIdentity name="DESTEK UYGULAMASI" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>Q/YS+FHIXSXwFEW+HnokcY1bt00Vk1hf1MUCF+Tex8k=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <file name="DESTEK UYGULAMASI.exe.config" size="1488">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>YGRuDxTAimBFIekBU45JPLEq/xRyC00xPrxYgZUcpUA=</dsig:DigestValue>
+    </hash>
+  </file>
+<publisherIdentity name="CN=ATURUTA\hanim" issuerKeyHash="1362e5b5f94370f9fad3fb7702da3055fa9bc423" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>SBolP+dVk/3wsEZRM6VQ9EeBo8zjq4F0LKAC40OWylk=</DigestValue></Reference></SignedInfo><SignatureValue>p0PxNSsQq+IkysBZncX9OghnufwXLG+5FjvgcpAkljkGK3QPA4SyXxmNn763KjwKgcWrHXIMVd+fXuWM1dRudXNPD6JdFVWNYSvij8aWBVn2bgYfh84HXYXUzbQcGUvg8UC43f6xP530V7/44Mu+o2v023z//1zXS1GWwxx4sS8=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>45Pp8CEOTU+a+3Lx1xwul+cp0MtVD7mdKsuKLQNEHM5yrSS07FYi2mNlPABq8yp0sa7nmiHx9zdPNZYHdOwwNrZO/g5nAOo8Q3ArV69Y/VTSEhPFWeqpMgO/HRYHf+7ri2YR5bfB4uSWUC1tMxafkkXR/C7Li8+W0k94yHLctNU=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="59ca9643e302a02c7481abe3cca38147f450a5335146b0f0fd9355e73f251a48" Description="" Url=""><as:assemblyIdentity name="DESTEK UYGULAMASI.exe" version="1.0.0.0" publicKeyToken="8034222c556122b1" language="neutral" processorArchitecture="msil" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=ATURUTA\hanim</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>XZLhKg2FhqlRrpoz4M0KVCRJ1T2/mIPEtCjm22Qqtnk=</DigestValue></Reference></SignedInfo><SignatureValue>Ay4u35gNDASy9l2YyT2XjPZBSogSlK2UOKA0VUCHpiGqrMH6LTQA91I9kVedMdfKPWQTxMGRfxfbqvwGJm+l7O5jsAai4mV7Dj7/GPwKQA0Ps7pKoCJM1ALREvehYfeLQzRnC3SV8WlRd74Il7mevoYg5rfeIV3vJOxP7PPDZmU=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>45Pp8CEOTU+a+3Lx1xwul+cp0MtVD7mdKsuKLQNEHM5yrSS07FYi2mNlPABq8yp0sa7nmiHx9zdPNZYHdOwwNrZO/g5nAOo8Q3ArV69Y/VTSEhPFWeqpMgO/HRYHf+7ri2YR5bfB4uSWUC1tMxafkkXR/C7Li8+W0k94yHLctNU=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIBzTCCATagAwIBAgIQWH87d5DwrqxGsthyhGvGLTANBgkqhkiG9w0BAQsFADAlMSMwIQYDVQQDHhoAQQBUAFUAUgBVAFQAQQBcAGgAYQBuAGkAbTAeFw0yNDA4MTYwNzUxMjlaFw0yNTA4MTYxMzUxMjlaMCUxIzAhBgNVBAMeGgBBAFQAVQBSAFUAVABBAFwAaABhAG4AaQBtMIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQDjk+nwIQ5NT5r7cvHXHC6X5ynQy1UPuZ0qy4otA0QcznKtJLTsViLaY2U8AGrzKnSxrueaIfH3N081lgd07DA2tk7+DmcA6jxDcCtXr1j9VNISE8VZ6qkyA78dFgd/7uuLZhHlt8Hi5JZQLW0zFp+SRdH8LsuLz5bST3jIcty01QIDAQABMA0GCSqGSIb3DQEBCwUAA4GBAD8ZYUUSTup3I31GfFhYdPhsslxZ4diKvYYW054dMksS9m2wO4DMlmfOE/WLgX5SrtxudukhqVR098uaEUlXJvqch/jdGlKj2h4ov1BHU23zkjlHEzc6axsXvUzWCFdcVoaab3JfLpMsk5KdeRpIy+F/Gnrd8g3rrJsqXBuSpT5W</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>
